@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 📱 **iOS Developer** with 2+ years of experience in Swift & SwiftUI  
+- 📱 **iOS Developer** with 1+ years of experience in Swift & SwiftUI  
 - 🤖 Exploring **Artificial Intelligence**, currently diving deep into **Transformers**, **RAG**, and **Fine-tuning**  
 - 🧠 Building local agent systems and working with **Mediapipe**, **SceneKit**, and **WebSocket** integrations  
 - 🧪 Constantly experimenting with combining AI and mobile technologies to solve real-world problems  
